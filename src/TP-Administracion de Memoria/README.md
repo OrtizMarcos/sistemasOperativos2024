@@ -55,8 +55,8 @@ Ejemplo de archivo CSV:
 
 | Algoritmo | Marcos | Secuencia de Páginas                   | Fallos |
 |-----------|--------|----------------------------------------|--------|
-| FIFO      | 3      | 1,3,2,1,5,3,4,1,5,2,6,7,5,7,2,5,3,5,3 | 12     |
-| LRU       | 3      | 1,3,2,1,5,3,4,1,5,2,6,7,5,7,2,5,3,5,3 | (Calc) |
+| FIFO      | 3      | 1,3,2,1,5,3,4,1,5,2,6,7,5,7,2,5,3,5,3 | 11     |
+| LRU       | 3      | 1,3,2,1,5,3,4,1,5,2,6,7,5,7,2,5,3,5,3 | 11     |
 
 ### **4.3 Pantallas de Ejecución**
 Incluya capturas de la ejecución del programa en ambos sistemas operativos, mostrando los fallos y la evolución de los marcos.
