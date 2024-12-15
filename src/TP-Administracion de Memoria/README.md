@@ -61,6 +61,10 @@ Ejemplo de archivo CSV:
 ### **4.3 Pantallas de Ejecución**
 Incluya capturas de la ejecución del programa en ambos sistemas operativos, mostrando los fallos y la evolución de los marcos.
 
+![img.png](FIFO_Test.png)
+
+![img_1.png](LRU_test.png)
+
 ## **5. Conclusión**
 
 Este trabajo práctico demuestra cómo implementar y analizar algoritmos de reemplazo de páginas en un entorno sencillo. Ambos algoritmos tienen ventajas y desventajas dependiendo del caso de uso, siendo LRU más eficiente en general, pero más costoso computacionalmente.
